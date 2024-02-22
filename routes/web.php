@@ -43,4 +43,7 @@ Route::get('/Adminlogin', function () {
     return view('Admin.login');
 })->name('Adminlogin');
 
+Route::get('/quotations', function () {
+    return view('general_pages/quotation');
+})->name('quotations');
 

@@ -56,8 +56,8 @@
         <ul>
           <li><a href="{{route('logistics')}}" class="active">Logistics</a></li>
           <li><a href="{{route('oil')}}">Oil</a></li>
-          <li><a href="services.html">Projects</a></li>
-          <li><a href="pricing.html">Publication</a></li>
+          <li><a href="{{route('projects')}}">Projects</a></li>
+          <li><a href="{{route('publications')}}">Publication</a></li>
           <li><a href="{{route('contact')}}">Contact</a></li>
           <li class="dropdown"><a href="#"><span>Login</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -67,7 +67,7 @@
             </ul>
           </li>
           
-          <li><a class="get-a-quote" href="get-a-quote.html">Get a Quote</a></li>
+          <li><a class="get-a-quote" href="{{route('quotations')}}">Get a Quote</a></li>
         </ul>
       </nav><!-- .navbar -->
 
@@ -88,7 +88,7 @@
           <a href="index.html" class="logo d-flex align-items-center">
             <span>ODU K-M LOGISTICS || OM OIL</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>For any Logistics and Transportation , Procurement and Sourcing of all kinds of goods from Asia , Europe , America, and all African countries. Assistance in Forwarding , clearance and consultation services .</p>
           <div class="social-links d-flex mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -101,8 +101,8 @@
         <div class="col-lg-2 col-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><a href="#">Logistics</a></li>
-            <li><a href="#">Oil and Gas</a></li>
+            <li><a href="{{route('logistics')}}">Logistics</a></li>
+            <li><a href="{{route('oil')}}">Oil and Gas</a></li>
             <li><a href="#">Quotation</a></li>
             <li><a href="#">Contact</a></li>
             <li><a href="#">Privacy policy</a></li>
