@@ -64,11 +64,11 @@
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="fa-solid fa-cargo-truck"></i></div>
+            <div class="icon flex-shrink-0"><i class="fa-solid fa-shipping-fast"></i></div>
             <div>
               <h4 class="title">Transport</h4>
               <p class="description">We make sure we Transport all goods as fast and safe as we can with a garantee for insurace with over 30 years of experience</p>
-              <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
           <!-- End Service Item -->
@@ -78,7 +78,7 @@
             <div>
               <h4 class="title">General Business</h4>
               <p class="description">Importation , Exportation , Clearance and assistance we are always available and ready to work with you to achieve your goals</p>
-              <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -87,7 +87,7 @@
             <div>
               <h4 class="title">Real Estates and Construction</h4>
               <p class="description">We have handled all our construction contracts with esperience from start to end with in uganda,kenya,DR congo and South Sudan</p>
-              <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -108,28 +108,28 @@
           <div class="col-lg-6 content order-last  order-lg-first">
             <h3>About Us</h3>
             <p>
-              Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam ut eius incidunt reiciendis veritatis asperiores placeat.
+              Odu K-M Investment is agroup of well connected companies inthe sectors of transportation with Air inclusive, international Business oil, natural resources, export and inports to all East African countries but are majorly based in uganda and DR Congo.
             </p>
             <ul>
               <li data-aos="fade-up" data-aos-delay="100">
                 <i class="bi bi-diagram-3"></i>
                 <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                  <h5>Management</h5>
+                  <p>We are under one general management but distributed with distributed country, Regional and Project managers through out East Africa</p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="200">
                 <i class="bi bi-fullscreen-exit"></i>
                 <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                  <h5>Experience</h5>
+                  <p>We have been in Business for over 30 years and have all the experience and expertise to achieve any business at hand</p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="300">
                 <i class="bi bi-broadcast"></i>
                 <div>
-                  <h5>Voluptatem et qui exercitationem</h5>
-                  <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime veniam</p>
+                  <h5>Coverage</h5>
+                  <p>We are have always been and are still in active operations in East Africa , South and Central Africa</p>
                 </div>
               </li>
             </ul>
@@ -156,8 +156,8 @@
               <div class="card-img">
                 <img src="assets/img/storage-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3><a href="#" class="stretched-link">Storage</a></h3>
+              <p>We make sure all goods assigned to be delivered are monitored and secure in all our storage facilities</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -166,8 +166,8 @@
               <div class="card-img">
                 <img src="assets/img/logistics-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="#" class="stretched-link">Logistics</a></h3>
+              <p>We garantee our Customers The best procurement, sourcing and clearance of there goods, and ensure clear communication</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -176,8 +176,8 @@
               <div class="card-img">
                 <img src="assets/img/cargo-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="#" class="stretched-link">Cargo</a></h3>
+              <p>we mainly deliver cargo from Mombasa, Dar es salaam and all other East African Ports</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -186,8 +186,8 @@
               <div class="card-img">
                 <img src="assets/img/trucking-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="#" class="stretched-link">Trucking</a></h3>
+              <p>Experienced Drivers who are Monitered and in constant Communication</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -196,8 +196,8 @@
               <div class="card-img">
                 <img src="assets/img/packaging-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="#" class="stretched-link">Clearence</a></h3>
+              <p>We help all our customers in processes of Clearence with goverment bodies and Border points. we have good connections :)</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -206,8 +206,8 @@
               <div class="card-img">
                 <img src="assets/img/warehousing-service.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <h3><a href="#" class="stretched-link">Real Estate</a></h3>
+              <p>we have experienced Engineers and planners copouled with availabilty of machinery to made and dream costraction come true</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -222,9 +222,9 @@
 
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center">
-            <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <a class="cta-btn" href="#">Call To Action</a>
+            <h3>Odu K-M investments || OM Oil </h3>
+            <p>We are Ready to work with you and acomplish the work</p>
+            <a class="cta-btn" href="{{route('contact')}}">Call To Action</a>
           </div>
         </div>
 
@@ -232,6 +232,7 @@
     </section><!-- End Call To Action Section -->
 
     <!-- ======= Features Section ======= -->
+    <!--
     <section id="features" class="features">
       <div class="container">
 
@@ -252,8 +253,10 @@
               <li><i class="bi bi-check"></i> Ullam est qui quos consequatur eos accusamus.</li>
             </ul>
           </div>
-        </div><!-- Features Item -->
-
+        </div>
+-->
+        <!-- Features Item -->
+<!--
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
             <img src="assets/img/features-2.jpg" class="img-fluid" alt="">
@@ -270,8 +273,10 @@
               culpa qui officia deserunt mollit anim id est laborum
             </p>
           </div>
-        </div><!-- Features Item -->
-
+        </div>
+-->
+        <!-- Features Item -->
+<!--
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5">
             <img src="assets/img/features-3.jpg" class="img-fluid" alt="">
@@ -285,8 +290,11 @@
               <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
             </ul>
           </div>
-        </div><!-- Features Item -->
+        </div>
+-->
+        <!-- Features Item -->
 
+<!--
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
             <img src="assets/img/features-4.jpg" class="img-fluid" alt="">
@@ -303,7 +311,9 @@
               culpa qui officia deserunt mollit anim id est laborum
             </p>
           </div>
-        </div><!-- Features Item -->
+        </div>-->
+
+        <!-- Features Item -->
 
       </div>
     </section><!-- End Features Section -->
@@ -318,14 +328,14 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/alemi.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
+                <h3>Alemi Bless</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                 odu K-M investments and OM oil , Your Best Business Partners
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -334,14 +344,14 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/alemi.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
+                <h3>Alemi Bless</h3>
                 <h4>Designer</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  odu K-M investments and OM oil , Your Best Business Partners
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -350,14 +360,14 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/alemi.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
+                <h3>Alemi Bless</h3>
                 <h4>Store Owner</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  odu K-M investments and OM oil , Your Best Business Partners
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -366,14 +376,14 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/alemi.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
+                <h3>Alemi Bless</h3>
                 <h4>Freelancer</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  odu K-M investments and OM oil , Your Best Business Partners
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -382,14 +392,14 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/alemi.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <h3>Alemi Bless</h3>
                 <h4>Entrepreneur</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  odu K-M investments and OM oil , Your Best Business Partners
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>

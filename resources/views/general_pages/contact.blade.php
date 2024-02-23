@@ -6,7 +6,7 @@
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
               <h2>Contact</h2>
-              <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+              <p>We are glad to be in contact with you and to work with your company</p>
             </div>
           </div>
         </div>
@@ -14,7 +14,7 @@
       <nav>
         <div class="container">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="{{route('logistics')}}">Home</a></li>
             <li>Contact</li>
           </ol>
         </div>
@@ -26,7 +26,7 @@
       <div class="container" data-aos="fade-up">
 
         <div>
-          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 340px;" src="https://www.google.com/maps/place/ODU+K-M+TRANSPORT+%26+LOGISTICS/@0.3049499,32.5338949,17z/data=!4m14!1m7!3m6!1s0x177da3e5359e373f:0x84d4932d74325fca!2sODU+K-M+TRANSPORT+%26+LOGISTICS!8m2!3d0.3049499!4d32.5364698!16s%2Fg%2F11hf8x4k5b!3m5!1s0x177da3e5359e373f:0x84d4932d74325fca!8m2!3d0.3049499!4d32.5364698!16s%2Fg%2F11hf8x4k5b?entry=ttu" frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="row gy-4 mt-4">
@@ -37,7 +37,7 @@
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p> 50a Kiggala Rd, Kampala</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -53,7 +53,7 @@
               <i class="bi bi-phone flex-shrink-0"></i>
               <div>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55</p>
+                <p>+256 780245409</p>
               </div>
             </div><!-- End Info Item -->
 
